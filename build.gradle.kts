@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-123 ?
-=======
+
 123 ?
 >>>>>>> new_branch
 val ktor_version: String by project
